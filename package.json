@@ -1,0 +1,12 @@
+{
+  "name": "beuns",
+  "version": "1.0.0",
+  "description": "Beuns Agency HTML Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass assets/scss/style.scss assets/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
